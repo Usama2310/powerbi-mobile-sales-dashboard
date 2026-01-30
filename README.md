@@ -16,4 +16,5 @@ This Power BI dashboard analyzes mobile sales data to provide insights into:
 
 ## Files
 - Mobile_Sales_Dashboard.pbix
-- dashboard.png (preview)
+## Dashboard Preview
+![Dashboard Preview](dashboard.png)
